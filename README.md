@@ -1,7 +1,1 @@
-I could not find AWS Agent Core Icons, So here is my best attempt - Agent Core Runtime Icon, Agent Core Gateway Icon, Agent Core Memory Icon and Agent Core Identity Icon
-<p></p>
-<img src="agentcore.png" width="350">
-<img src="agentcore-gateway.png" width="250">
-<img src="agentcore-identity.png" width="250">
-<img src="agentcore-runtime.png" width="250">
-<img src="agentcore-observability.png" width="250">
+<img width="229" height="449" alt="AWS AgentCore Icon Set" src="https://github.com/user-attachments/assets/4c8c73f2-31b2-4385-b08c-95361bfb45be" />
